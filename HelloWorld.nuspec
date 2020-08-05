@@ -10,7 +10,7 @@
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>test package. not real.</description>
     <summary>test package. not real.</summary>
-    <RepositoryUrl>https://github.com/jfrog-qa/HelloWorldNuget.git</RepositoryUrl>
+<repository type="git" url="https://github.com/jfrog-qa/HelloWorldNuget.git" />
     <frameworkAssemblies>
       <frameworkAssembly assemblyName="System.Runtime.Serilization" targetFramework="Silverlight4.0" />
     </frameworkAssemblies>
